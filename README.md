@@ -1,23 +1,4 @@
 ## Hi there 👋
-
-<!--
-**Hustsurvivor/Hustsurvivor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#  🙋 Hello
-
-<table>
-  
 <tr><td>
 
 ### 🤺 About Me
@@ -32,15 +13,12 @@ Here are some ideas to get you started:
 
 ### 🏢 Education Experience
 
-<img align="right" width="200" src="https://cs.hust.edu.cn/img/logo_news.png" />
+- [华中科技大学](https://www.hust.edu.cn/) &emsp; 📌 2024-09-01 —— 2027-06-20
 
-- [华中科技大学](https://www.hust.edu.cn/) &emsp; 📌 2024-03-04 —— 2024-08-28
-
-  - 硕士研究生 —— 计算机科学与技术
-  - 方向 —— AI4DB
+  - 硕士研究生 —— 计算机科学与技术 —— AI4DB
 
 
-- [华中科技大学](https://www.hust.edu.cn/) &emsp; 📌 2023-06-19 —— 2024-01-19
+- [华中科技大学](https://www.hust.edu.cn/) &emsp; 📌 2020-09-18 —— 2024-06-20
 
   - 本科 —— 计算机科学与技术
 
