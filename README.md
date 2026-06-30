@@ -1,29 +1,132 @@
-## Hi there 👋
-<tr><td>
+<div align="center">
 
-### 🤺 About Me
-<p>&emsp;&emsp;嗨，你好！我热爱探索未知、学习新知识、分享经验。</p>
-<p>&emsp;&emsp;我希望通过不断学习与实践，在实践中完善自己。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>Creating high-quality, scalable code to build a brighter future for everyone.</strong></p>
+# Hi, I'm Guoneng Li
 
-</td></tr>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&center=true&vCenter=true&width=760&lines=Computer+Science+Graduate+Student+%40+HUST;AI4DB+%7C+ML4DB+%7C+Learned+Query+Optimization;Building+database+systems+that+learn+from+workloads" alt="Typing SVG" />
 
-<tr><td>
+<p>
+  <a href="https://github.com/Hustsurvivor"><img src="https://img.shields.io/badge/GitHub-Hustsurvivor-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="mailto:guonengli@hust.edu.cn"><img src="https://img.shields.io/badge/Email-guonengli%40hust.edu.cn-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Hustsurvivor&style=for-the-badge&color=0e75b6" alt="Profile views" />
+</p>
 
-### 🏢 Education Experience
+</div>
 
-- [华中科技大学](https://www.hust.edu.cn/) &emsp; 📌 2024-09-01 —— 2027-06-20
+## About Me
 
-  - 硕士研究生 —— 计算机科学与技术 —— AI4DB
+I am a Computer Science graduate student at Huazhong University of Science and Technology, working around AI4DB and ML4DB.
+My own recent work focuses on learned query optimization and benchmark/data preparation for database research.
 
+- Research interests: learned query optimization, cost/cardinality estimation, query plan generation, PostgreSQL systems, reinforcement learning for databases.
+- Current direction: making learned optimizers more selective, practical, and reproducible across workloads.
+- I also reproduce and read paper implementations to build a stronger baseline library for query optimizer research.
 
-- [华中科技大学](https://www.hust.edu.cn/) &emsp; 📌 2020-09-18 —— 2024-06-20
+## Education
 
-  - 本科 —— 计算机科学与技术
+| Period | School | Program | Direction |
+| --- | --- | --- | --- |
+| 2024.09 - 2027.06 | [Huazhong University of Science and Technology](https://www.hust.edu.cn/) | M.S. in Computer Science and Technology | AI4DB |
+| 2020.09 - 2024.06 | [Huazhong University of Science and Technology](https://www.hust.edu.cn/) | B.S. in Computer Science and Technology | Computer Science |
 
-</td></tr>
+## Tech Stack
 
-<tr><td>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,c,cpp,java,bash,postgres,docker,linux,git,github,latex" alt="Tech stack" />
+</p>
 
+## My Work
 
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Hustsurvivor/Lequa">Lequa</a></h3>
+      <p>A learning-based query-aware framework for selective and efficient query optimization. It includes candidate plan generation with RankRefine and a multi-stage optimizer with UQR, Struct Planner, and Detail Planner.</p>
+      <p><b>Keywords:</b> Python, PostgreSQL, pg_hint_plan, learned query optimization</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Hustsurvivor/pg-database-gen">pg-database-gen</a></h3>
+      <p>Scripts and notes for preparing ML4DB datasets and benchmarks, including IMDB/JOB, STACK, STATS, and TPC-H for PostgreSQL experiments.</p>
+      <p><b>Keywords:</b> Shell, PostgreSQL, benchmark generation, ML4DB datasets</p>
+    </td>
+  </tr>
+</table>
+
+## Public Paper Reproductions and Baselines
+
+Only public repositories are listed here. Most of them are paper reproductions, baseline adaptations, or reading notes rather than my original research contributions.
+
+| Repository | Topic |
+| --- | --- |
+| [Bao](https://github.com/Hustsurvivor/Bao) | Bao for PostgreSQL reproduction/adaptation for learned optimizer experiments. |
+| [Leon](https://github.com/Hustsurvivor/Leon) | LEON paper implementation study for ML-aided query optimization. |
+| [LEAD](https://github.com/Hustsurvivor/LEAD) | Paper reproduction and experiment code around learned database optimization. |
+| [RTOS](https://github.com/Hustsurvivor/RTOS) | RTOS paper reproduction: reinforcement learning with Tree-LSTM for join order selection. |
+| [HyperQO](https://github.com/Hustsurvivor/HyperQO) | Hybrid query optimizer for query plan selection. |
+| [ReJOIN](https://github.com/Hustsurvivor/ReJOIN) | Deep reinforcement learning for join enumeration. |
+| [AlphaJoin](https://github.com/Hustsurvivor/AlphaJoin) | Join order selection inspired by AlphaGo-style search and learning. |
+| [Lero-on-PostgreSQL](https://github.com/Hustsurvivor/Lero-on-PostgreSQL) | PostgreSQL-oriented learned query optimization baseline. |
+| [zero-shot-cost-estimation](https://github.com/Hustsurvivor/zero-shot-cost-estimation) | VLDB 2022 zero-shot learned cost model implementation. |
+| [BaoForPostgreSQL](https://github.com/Hustsurvivor/BaoForPostgreSQL) | Original Bao prototype reference for PostgreSQL. |
+| [JOGGER](https://github.com/Hustsurvivor/JOGGER) | Query optimizer research baseline. |
+| [lqo_ml_perspective](https://github.com/Hustsurvivor/lqo_ml_perspective) | Learned query optimization from an ML perspective. |
+
+## Notes
+
+| Repository | Topic |
+| --- | --- |
+| [Algorithm](https://github.com/Hustsurvivor/Algorithm) | Algorithm notes and templates. |
+
+## Dynamic GitHub Dashboard
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hustsurvivor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hustsurvivor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Hustsurvivor&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hustsurvivor&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+
+</div>
+
+## Repository Cards
+
+<div align="center">
+
+<a href="https://github.com/Hustsurvivor/Lequa">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hustsurvivor&repo=Lequa&theme=tokyonight&hide_border=true" alt="Lequa" />
+</a>
+<a href="https://github.com/Hustsurvivor/pg-database-gen">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hustsurvivor&repo=pg-database-gen&theme=tokyonight&hide_border=true" alt="pg-database-gen" />
+</a>
+
+</div>
+
+## Current Focus
+
+```text
+AI4DB / ML4DB
+├── Learned Query Optimization
+│   ├── plan selection
+│   ├── join order optimization
+│   └── learned cost and latency modeling
+├── PostgreSQL Experiments
+│   ├── JOB / IMDB
+│   ├── STACK
+│   ├── STATS
+│   └── TPC-H
+└── Reproducible Research
+    ├── benchmark setup
+    ├── training and testing scripts
+    └── baseline comparison
+```
+
+<div align="center">
+
+<b>Creating high-quality, scalable code to build more practical database systems.</b>
+
+</div>
