@@ -80,10 +80,19 @@ Only public repositories are listed here. Most of them are paper reproductions, 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hustsurvivor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hustsurvivor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<p>
+  <img src="https://img.shields.io/github/followers/Hustsurvivor?style=for-the-badge&logo=github&label=Followers&color=0e75b6" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/last-commit/Hustsurvivor/Hustsurvivor?style=for-the-badge&logo=github&label=Profile%20Updated&color=0e75b6" alt="Profile last update" />
+  <img src="https://img.shields.io/github/repo-size/Hustsurvivor/Hustsurvivor?style=for-the-badge&logo=github&label=Profile%20Repo&color=0e75b6" alt="Profile repo size" />
+  <img src="https://img.shields.io/badge/Public%20Focus-AI4DB%20%2F%20ML4DB-0e75b6?style=for-the-badge" alt="Research focus" />
+</p>
 
-<br />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
+</p>
 
 <img src="https://streak-stats.demolab.com?user=Hustsurvivor&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
@@ -95,16 +104,28 @@ Only public repositories are listed here. Most of them are paper reproductions, 
 
 ## Repository Cards
 
-<div align="center">
-
-<a href="https://github.com/Hustsurvivor/Lequa">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hustsurvivor&repo=Lequa&theme=tokyonight&hide_border=true" alt="Lequa" />
-</a>
-<a href="https://github.com/Hustsurvivor/pg-database-gen">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hustsurvivor&repo=pg-database-gen&theme=tokyonight&hide_border=true" alt="pg-database-gen" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Hustsurvivor/Lequa">Lequa</a></h3>
+      <p>A learning-based query-aware framework for selective and efficient query optimization.</p>
+      <p>
+        <img src="https://img.shields.io/github/languages/top/Hustsurvivor/Lequa?style=flat-square" alt="Lequa top language" />
+        <img src="https://img.shields.io/github/stars/Hustsurvivor/Lequa?style=flat-square" alt="Lequa stars" />
+        <img src="https://img.shields.io/github/last-commit/Hustsurvivor/Lequa?style=flat-square" alt="Lequa last commit" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Hustsurvivor/pg-database-gen">pg-database-gen</a></h3>
+      <p>Scripts and notes for preparing PostgreSQL datasets and ML4DB benchmarks.</p>
+      <p>
+        <img src="https://img.shields.io/github/languages/top/Hustsurvivor/pg-database-gen?style=flat-square" alt="pg-database-gen top language" />
+        <img src="https://img.shields.io/github/stars/Hustsurvivor/pg-database-gen?style=flat-square" alt="pg-database-gen stars" />
+        <img src="https://img.shields.io/github/last-commit/Hustsurvivor/pg-database-gen?style=flat-square" alt="pg-database-gen last commit" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Current Focus
 
